@@ -75,7 +75,7 @@
   <a href="https://www.linkedin.com/in/%C3%A1ngel-gustavo-anaya-l%C3%B3pez-088a77366/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="https://github.com/KASHlMA"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/gustavo_knxs/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/GustavoKnxs"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
